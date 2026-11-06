@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-A11",
+  "repository": "icb-a11-recognition-agreements-across-borders-sectors",
+  "repository_url": "https://github.com/ICoBC/icb-a11-recognition-agreements-across-borders-sectors",
+  "title": "Recognition Agreements Across Borders and Sectors",
+  "subtitle": "Structured methods for mutual recognition of credentials.",
+  "version": "1.0.0",
+  "series": "Advanced",
+  "skill": "Ecosystem and recognition partnerships",
+  "level": "4",
+  "level_name": "Assure",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-ECOS-L4-A",
+  "badge_name": "Recognition Agreements Across Borders and Sectors (Ability, L4)",
+  "hours": "8",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-a11/",
+  "parts": [
+    "About this course",
+    "Recognition models",
+    "Quality expectations",
+    "Cross-border issues",
+    "Governance",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 16
+}
